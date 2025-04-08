@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Backend Developer | Node.js & Express Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdel-fattah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdel-fattah-a10b65172)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.abdelfattah.dev@gmail.com)
 
 ---
