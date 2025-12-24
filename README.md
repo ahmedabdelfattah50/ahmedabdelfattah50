@@ -1,7 +1,7 @@
 <!-- With TypeScripts -->
-# Ahmed Abdel-Fattah Abdel-Moaty
+# Ahmed Abdel-Fattah
 
-## 👨‍💻 Backend Developer | Node.js & Express Specialist
+## 👨‍💻 Software Engineer | Back-End Node.js/Nest.js @ Travolic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdel-fattah-a10b65172)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.abdelfattah.dev@gmail.com)
@@ -10,7 +10,9 @@
 
 ### 🚀 About Me
 
-Versatile backend developer with extensive experience in Node.js, Express, TypeScript, Laravel, and database management. I specialize in creating scalable web applications and RESTful APIs with a strong focus on code quality and performance. Currently working as a Node.js Developer at Travolic, where I develop dynamic flight pages and travel-related features.
+Results-driven Back-End Developer with extensive experience designing and delivering scalable, high-performance applications using Node.js, Express.js, Nest.js, PHP, and Laravel.
+Talent in building clean, maintainable, and secure server-side architectures that power seamless user experiences.
+Proven ability to collaborate effectively in agile teams, deliver robust solutions on time, and continuously improve system performance and code quality.
 
 ---
 
@@ -18,6 +20,7 @@ Versatile backend developer with extensive experience in Node.js, Express, TypeS
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
