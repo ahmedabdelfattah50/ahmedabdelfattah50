@@ -21,7 +21,7 @@
 
 ### 💡 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescrip,node.js,nest.js,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Node.js,Express.js,Nest.js,TypeScript,JavaScript,MongoDB,postgresql,MySQL,Docker.Swagger)](https://skillicons.dev)
 #### 🧠 Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
