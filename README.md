@@ -21,11 +21,7 @@
 
 ### 💡 Tech Stack
 
-#### 🖥️ Front-End
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescrip,node.js,nest.js,mongodb,postgresql)](https://skillicons.dev)
 #### 🧠 Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
